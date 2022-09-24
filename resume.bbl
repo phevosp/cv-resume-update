@@ -1,0 +1,53 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ymdnt/global//global/global}
+    \entry{optimizing-microgrid}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=e83fab922ae8befe86d877d5f02ffb05}{%
+           family={Paschalidis},
+           familyi={P\bibinitperiod},
+           given={Phevos},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{e83fab922ae8befe86d877d5f02ffb05}
+      \strng{fullhash}{e83fab922ae8befe86d877d5f02ffb05}
+      \strng{bibnamehash}{e83fab922ae8befe86d877d5f02ffb05}
+      \strng{authorbibnamehash}{e83fab922ae8befe86d877d5f02ffb05}
+      \strng{authornamehash}{e83fab922ae8befe86d877d5f02ffb05}
+      \strng{authorfullhash}{e83fab922ae8befe86d877d5f02ffb05}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2021 IEEE MIT Undergraduate Research Technology Conference (URTC)}
+      \field{title}{Optimizing a Microgrid}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/URTC54388.2021.9701612
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
